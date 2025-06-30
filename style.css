@@ -1,0 +1,249 @@
+@media(max-width:425px){
+    body{ 
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    }
+    .eng{
+        text-align: center;
+        font-size: 12px;
+        color:rgb(146, 146, 146);
+    }
+    .imgdiv{
+        width: 40px;  
+        border-radius: 100%;
+        margin:auto;
+
+    }
+    .thim{
+        width: 100%;
+        height: inherit;
+        border-radius: 100%;
+    }
+    .mail{
+        width:90%;
+        margin:auto;   
+        height: 10px;            
+    } 
+    .mails{
+        width:90%;
+        display:flex;
+        align-items: center;
+        justify-content:center;
+        margin:auto;   
+        height: 10px;            
+    }
+    .req{
+        width: 83%;
+        padding: 14px;
+        outline: none;
+        border-radius:10px;
+        border: rgb(221, 220, 220) solid 2px;
+    }
+    .downbtc{
+        width: 95%;
+        border: none;
+        padding:10px;
+        border-radius: 10px;
+        color:white;
+        font-size:10px;
+        background-color: rgb(9, 74, 255);
+    }  
+    
+    .downbtce{
+        width: 80%;
+        border: none;
+        padding:10px;
+        border-radius: 10px;
+        color:white;
+        font-size:10px;
+        background-color: rgb(9, 74, 255);
+    }  
+    .downbtcs{
+        width: 100%;
+        border: rgb(9, 74, 255) solid 1px;
+        padding:10px;
+        border-radius: 10px;
+        color:white; 
+        font-size:10px; 
+        color: rgb(9, 74, 255);
+    } 
+    .thims{ 
+        width: 100%;
+        height: inherit; 
+    }
+    .log{
+         font-size: 9px;
+         text-align: center;
+         color:gray;
+    }
+}
+
+
+
+
+
+
+
+
+
+/* tablet */
+
+
+
+@media(min-width:500px){
+    body{ 
+        width: 30%;
+        margin: auto;
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    }
+    .eng{
+        text-align: center;
+        font-size: 12px;
+        color:rgb(146, 146, 146);
+    }
+    .imgdiv{
+        width: 40px;  
+        border-radius: 100%;
+        margin:auto;
+
+    }
+    .thim{
+        width: 100%;
+        height: inherit;
+        border-radius: 100%;
+    }
+    .mail{
+        width:90%;
+        margin:auto;   
+        height: 10px;            
+    } 
+    .mails{
+        width:85%;
+        display:flex;
+        align-items: center;
+        justify-content:center;
+        margin:auto;   
+        height: 10px;            
+    }
+    .req{
+        width: 90%;
+        padding: 14px;
+        outline: none;
+        border-radius:10px;
+        border: rgb(221, 220, 220) solid 2px;
+    }
+    .downbtc{
+        width: 99%;
+        border: none;
+        padding:10px;
+        border-radius: 10px;
+        color:white;
+        font-size:10px;
+        background-color: rgb(9, 74, 255);
+    }  
+    .downbtcs{
+        width: 100%;
+        border: rgb(9, 74, 255) solid 1px;
+        padding:10px;
+        border-radius: 10px;
+        color:white; 
+        font-size:10px; 
+        color: rgb(9, 74, 255);
+    } 
+    .thims{ 
+        width: 100%;
+        height: inherit; 
+    }
+    .log{
+         font-size: 9px;
+         text-align: center;
+         color:gray;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/* laptop */
+
+
+
+@media(min-width:1400px){
+    body{ 
+        width:10%;
+        margin: auto;
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    }
+    .eng{
+        text-align: center;
+        font-size: 12px;
+        color:rgb(146, 146, 146);
+    }
+    .imgdiv{
+        width: 40px;  
+        border-radius: 100%;
+        margin:auto;
+
+    }
+    .thim{
+        width: 100%;
+        height: inherit;
+        border-radius: 100%;
+    }
+    .mail{
+        width:90%;
+        margin:auto;   
+        height: 10px;            
+    } 
+    .mails{
+        width:90%;
+        display:flex;
+        align-items: center;
+        justify-content:center;
+        margin:auto;   
+        height: 10px;            
+    }
+    .req{
+        width: 90%;
+        padding: 14px;
+        outline: none;
+        border-radius:10px;
+        border: rgb(221, 220, 220) solid 2px;
+    }
+    .downbtc{
+        width: 99%;
+        border: none;
+        padding:10px;
+        border-radius: 10px;
+        color:white;
+        font-size:10px;
+        background-color: rgb(9, 74, 255);
+    }  
+    .downbtcs{
+        width: 100%;
+        border: rgb(9, 74, 255) solid 1px;
+        padding:10px;
+        border-radius: 10px;
+        color:white; 
+        font-size:10px; 
+        color: rgb(9, 74, 255);
+    } 
+    .thims{ 
+        width: 100%;
+        height: inherit; 
+    }
+    .log{
+         font-size: 9px;
+         text-align: center;
+         color:gray;
+    }
+}
+
+
